@@ -579,7 +579,7 @@ blockquote {
   margin-right: 0;
   margin-bottom: 0;
   margin-left: 0;
-  background-image: url(../images/thumbnail/covers-02.png_1733x1733.png);
+  background-image: url(../images/thumbnail/myUtilities/chat.io.png);
   background-position: center center;
   background-size: cover;
   position: absolute
@@ -595,7 +595,7 @@ blockquote {
   margin-right: 0;
   margin-bottom: 0;
   margin-left: 0;
-  background-image: url(../images/thumbnail/covers-03.png_1733x1733.png);
+  background-image: url(../images/thumbnail/myUtilities/socioTags.png);
   background-position: center center;
   background-size: cover;
   position: absolute
@@ -758,7 +758,7 @@ blockquote {
   padding-top: 80px;
   padding-bottom: 80px;
   background-color: white;
-  background-image: url(../images/thumbnail/covers-07_1.png_3333x2146.png);
+  background-image: url(../images/thumbnail/myUtilities/resume.png);
   background-position: center center;
   background-size: cover;
   min-height: 12rem
@@ -774,7 +774,7 @@ blockquote {
   margin-right: 0;
   margin-bottom: 0;
   margin-left: 0;
-  background-image: url(../images/thumbnail/covers-01.png_1733x1733.png);
+  background-image: url(../images/thumbnail/myUtilities/sigcloud.png);
   background-position: center center;
   background-size: cover;
   position: absolute
@@ -786,7 +786,7 @@ blockquote {
   padding-top: 80px;
   padding-bottom: 80px;
 /*  background-color: white;
-*/  background-image: url(../images/thumbnail/covers-08.png);
+*/  background-image: url(../images/thumbnail/myUtilities/mail.png);
   background-position: center center;
   background-size: cover;
   min-height: 13.25rem
