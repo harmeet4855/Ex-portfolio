@@ -213,7 +213,7 @@ blockquote {
   margin-right: auto;
   margin-left: auto;
   padding-top: 50px;
-  padding-bottom: 50px
+  /*padding-bottom: 50px*/
 }
 .fr_c08_image {
   width: 100%;
@@ -939,7 +939,7 @@ blockquote {
     max-width: inherit
   }
   .fr_content_07 {
-    padding-bottom: 80px
+    padding-bottom: 20px
   }
   .fr_c08_headline {
     display: block;
@@ -1046,7 +1046,7 @@ blockquote {
   }
   .fr_content_07 {
     padding-top: 50px;
-    padding-bottom: 50px
+    padding-bottom: 20px
   }
   .fr_c08_headline {
     display: block;
