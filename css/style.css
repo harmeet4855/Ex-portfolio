@@ -559,11 +559,11 @@ blockquote {
   float: none;
   display: block;
   width: 99.89%;
-  height: 297px;
+  height: 200px;
   vertical-align: top;
   margin-top: -1rem;
   position: relative;
-  min-height: 297px
+  /*min-height: 297px*/
 }
 .fr_slideshow .fr-slideshow-dots .swiper-pagination-switch {
   background-color: black
@@ -574,12 +574,12 @@ blockquote {
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
+  height: 200px;
   margin-top: 0;
   margin-right: 0;
   margin-bottom: 0;
   margin-left: 0;
-  background-image: url(../images/thumbnail/myUtilities/chat.ioSlide.png);
+  background-image: url(../images/thumbnail/myUtilities/data.png);
   background-position: center center;
   background-size: cover;
   position: absolute
@@ -590,12 +590,12 @@ blockquote {
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
+  height: 200px;
   margin-top: 0;
   margin-right: 0;
   margin-bottom: 0;
   margin-left: 0;
-  background-image: url(../images/thumbnail/myUtilities/socioTags.png);
+  background-image: url(../images/thumbnail/myUtilities/development.png);
   background-position: center center;
   background-size: cover;
   position: absolute
@@ -769,12 +769,12 @@ blockquote {
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
+  height: 200px;
   margin-top: 0;
   margin-right: 0;
   margin-bottom: 0;
   margin-left: 0;
-  background-image: url(../images/thumbnail/myUtilities/sigcloud.png);
+  background-image: url(../images/thumbnail/myUtilities/design.png);
   background-position: center center;
   background-size: cover;
   position: absolute
