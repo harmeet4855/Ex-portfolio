@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08b98515-3fcf-48fd-a8dc-6e4bdfa2e5ba" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flexFlights/images/thumbnail/covers-07_2.png_3333x2146.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flexFlights/images/thumbnail/ena-down-2proc-01.png_10x10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flexFlights/images/thumbnail/flex-02_3.jpg_2000x1125.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flexFlights/images/thumbnail/flex-04_2.jpg_2000x1125.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flexFlights/images/thumbnail/flex-05_1.jpg_2000x1592.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flexFlights/images/thumbnail/flex-06_1.jpg_2000x1125.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flexFlights/images/thumbnail/flex-07.jpg_2000x3555.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flexFlights/images/thumbnail/flex-08.jpg_1667x1667.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flexFlights/images/thumbnail/froontnewtour-8-02.png_1145x733.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flexFlights/images/thumbnail/mail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flexFlights/images/thumbnail/styles-12fps-16colors-x2.gif_816x544.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flexFlights/js/background-parallax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flexFlights/css/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sigcloud/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flexFlights/js/fontloader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flexFlights/js/form-submit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flexFlights/vendor/idangerous.swiper.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flexFlights/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flexFlights/vendor/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flexFlights/css/myAdd.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flexFlights/vendor/noframework.waypoints.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flexFlights/js/page-script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flexFlights/vendor/responsive-nav.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flexFlights/js/reveal-animation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flexFlights/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flexFlights/vendor/webfont.js" />
-      <change type="DELETED" beforePath="E:\harmeet4855.github.io\sigcloud\flexFlights.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="08b98515-3fcf-48fd-a8dc-6e4bdfa2e5ba" name="Default" comment="" />
     <ignored path="harmeet4855.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -98,8 +67,8 @@
       <file leaf-file-name="technicheWebsite.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sigcloud/technicheWebsite.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.007229">
-              <caret line="101" column="54" selection-start-line="101" selection-start-column="54" selection-end-line="101" selection-end-column="54" />
+            <state vertical-scroll-proportion="0.5566265">
+              <caret line="84" column="61" selection-start-line="84" selection-start-column="61" selection-end-line="84" selection-end-column="61" />
               <folding />
             </state>
           </provider>
@@ -638,16 +607,16 @@
       <workItem from="1441874900965" duration="34000" />
       <workItem from="1441909843705" duration="1019000" />
       <workItem from="1441965160276" duration="9450000" />
-      <workItem from="1442079734336" duration="1078000" />
+      <workItem from="1442079734336" duration="1730000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39115000" />
+    <option name="totallyTimeSpent" value="39767000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1003,8 +972,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sigcloud/technicheWebsite.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.007229">
-          <caret line="101" column="54" selection-start-line="101" selection-start-column="54" selection-end-line="101" selection-end-column="54" />
+        <state vertical-scroll-proportion="0.5566265">
+          <caret line="84" column="61" selection-start-line="84" selection-start-column="61" selection-end-line="84" selection-end-column="61" />
           <folding />
         </state>
       </provider>
